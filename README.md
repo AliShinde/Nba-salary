@@ -10,3 +10,6 @@ Data scraped from https://hoopshype.com/nba2k/. Additional data about countries 
 
 Inspiration
 Inspired from this dataset: https://www.kaggle.com/karangadiya/fifa19
+
+# Dataset
+[NBA Data](https://www.kaggle.com/isaienkov/nba2k20-player-dataset)
